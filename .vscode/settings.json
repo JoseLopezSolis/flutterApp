@@ -1,0 +1,6 @@
+{
+  "dart.flutterGenerateLocalizationsOnSave": "all",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "dart.hotReloadProgress": "statusBar"
+}
